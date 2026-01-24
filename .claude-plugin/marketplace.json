@@ -28,7 +28,7 @@
       "description": "Infrastructure plugin",
       "source": {
         "source": "url",
-        "url": "git@github-syntek:Syntek-Studio/syntek-infra.git"
+        "url": "git@github-syntek:Syntek-Studio/syntek-infra-plugin.git"
       }
     }
   ]
