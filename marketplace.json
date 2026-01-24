@@ -1,0 +1,35 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "syntek-marketplace",
+  "description": "Syntek development and security plugins",
+  "owner": {
+    "name": "Syntek Studio",
+    "email": "sam.bailey@syntekstudio.com"
+  },
+  "plugins": [
+    {
+      "name": "syntek-dev-suite",
+      "description": "Development suite plugin",
+      "source": {
+        "source": "url",
+        "url": "git@github-syntek:Syntek-Studio/syntek-dev-suite.git"
+      }
+    },
+    {
+      "name": "syntek-rust-security",
+      "description": "Rust security plugin",
+      "source": {
+        "source": "url",
+        "url": "git@github-syntek:Syntek-Studio/syntek-rust-security.git"
+      }
+    },
+    {
+      "name": "syntek-infra",
+      "description": "Infrastructure plugin",
+      "source": {
+        "source": "url",
+        "url": "git@github-syntek:Syntek-Studio/syntek-infra.git"
+      }
+    }
+  ]
+}
