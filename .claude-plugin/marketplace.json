@@ -12,7 +12,7 @@
       "description": "Development suite plugin",
       "source": {
         "source": "url",
-        "url": "git@github-syntek:Syntek-Studio/syntek-dev-suite.git"
+        "url": "git@github-syntek:Syntek-Dev/syntek-dev-suite.git"
       }
     },
     {
@@ -20,7 +20,7 @@
       "description": "Rust security plugin",
       "source": {
         "source": "url",
-        "url": "git@github-syntek:Syntek-Studio/syntek-rust-security.git"
+        "url": "git@github-syntek:Syntek-Dev/syntek-rust-security.git"
       }
     },
     {
@@ -28,7 +28,7 @@
       "description": "Infrastructure plugin",
       "source": {
         "source": "url",
-        "url": "git@github-syntek:Syntek-Studio/syntek-infra-plugin.git"
+        "url": "git@github-syntek:Syntek-Dev/syntek-infra-plugin.git"
       }
     }
   ]
